@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Tiempo</string>
     <string name="action_settings">Ajustes</string>
+    <string name="action_refresh">Actualizar</string>
 </resources>
