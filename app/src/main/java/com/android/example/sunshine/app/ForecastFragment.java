@@ -15,8 +15,6 @@ import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
-import com.example.android.sunshine.app.R;
-
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
