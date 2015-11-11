@@ -51,7 +51,7 @@ public class ForecastFragment extends Fragment {
     public boolean onOptionsItemSelected(MenuItem item) {
 
         if (R.id.action_refresh == item.getItemId()) {
-            new FetchWeatherTask().execute("29018,ES");
+            new FetchWeatherTask().execute("28260,ES");
             return true;
         }
 
