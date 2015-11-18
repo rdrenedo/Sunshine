@@ -4,7 +4,7 @@
     android:layout_height="match_parent">
 
     <EditTextPreference
-        android:title="Location"
+        android:title="Ubicación"
         android:key="location"
         android:defaultValue="28260"
         android:inputType="text"
