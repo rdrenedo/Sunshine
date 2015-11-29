@@ -1,20 +1,20 @@
 <resources>
-    <string name="app_name">.Tiempo</string>
-    <string name="action_settings">Ajustes</string>
-    <string name="action_refresh">Actualizar</string>
-    <string name="title_activity_detail">Detalles</string>
-    <string name="title_activity_settings">Ajustes</string>
-    <string name="pref_location_label">Ubicación</string>
+    <string name="app_name">Sunshine</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_refresh">Update</string>
+    <string name="title_activity_detail">Details</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="pref_location_label">Location</string>
     <string name="pref_location_key" translatable="false">location</string>
     <string name="pref_location_default" translatable="false">28260</string>
-    <string name="pref_units_label">Unidades</string>
-    <string name="pref_units_label_metric">Metrico ºC</string>
+    <string name="pref_units_label">Units</string>
+    <string name="pref_units_label_metric">Metric ºC</string>
     <string name="pref_units_label_imperial">Imperial ºF</string>
     <string name="pref_units_key" translatable="false">units</string>
     <string name="pref_units_metric" translatable="false">metric</string>
     <string name="pref_units_imperial" translatable="false">imperial</string>
-    <string name="action_map">Mapa</string>
-    <string name="action_share">Compartir</string>
+    <string name="action_map">Map</string>
+    <string name="action_share">Share</string>
 
 
 </resources>
